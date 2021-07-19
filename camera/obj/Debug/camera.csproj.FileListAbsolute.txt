@@ -1,0 +1,13 @@
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\camera.exe.config
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\camera.exe
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\camera.pdb
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\Guna.UI.dll
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\obj\Debug\camera.csprojResolveAssemblyReference.cache
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\obj\Debug\camera.Form1.resources
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\obj\Debug\camera.Properties.Resources.resources
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\obj\Debug\camera.csproj.GenerateResource.Cache
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\obj\Debug\camera.exe
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\obj\Debug\camera.pdb
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ATTAH NEIYE\Desktop\bank\camera\camera\bin\Debug\AForge.Video.dll
